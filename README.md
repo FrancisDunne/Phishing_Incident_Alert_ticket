@@ -21,10 +21,16 @@ The project utilized the organization's phishing incident response playbook as a
 ## Steps
 
 Analyze the alert ticket:
+
+
 [Alert ticket.pdf](https://github.com/FrancisDunne/Phishing_Incident_Alert_ticket/files/15051412/Alert.ticket.pdf)
 
 Follow the Phishing Incident Response Playbook:
+
+
 [Phishing incident response playbook.pdf](https://github.com/FrancisDunne/Phishing_Incident_Alert_ticket/files/15051413/Phishing.incident.response.playbook.pdf)
 
 Execute a completed alert ticket:
+
+
 [Completed alert ticket.pdf](https://github.com/FrancisDunne/Phishing_Incident_Alert_ticket/files/15051422/Completed.alert.ticket.pdf)
