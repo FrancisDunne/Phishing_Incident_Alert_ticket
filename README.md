@@ -1,4 +1,4 @@
-# Phishing_Incident_Response_Project
+# Phishing Incident Response Project
 
 ## Objective
 
